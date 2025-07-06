@@ -10,7 +10,6 @@ The analysis utilizes a sampled version of a larger dataset (originally `2025-06
 * `Brand`: Device manufacturer.
 * `RAM Capacity`: Random Access Memory capacity.
 * `Operating System`: The installed operating system.
-* *(You can add other interesting columns here if you wish, like 'Display Diagonal', 'CPU Clock', 'Camera Resolution', etc.)*
 
 ## Key Questions Addressed & Insights:
 
